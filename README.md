@@ -1,5 +1,5 @@
 
-This is a list of software and platforms that have third party extension marketplaces. Use these platforms to discover and sell your next SaaS product, just like [Preetam Nath](https://www.preetamnath.com/blog/shopify-micro-saas) and [Tyler Tringas](https://tylertringas.com/micro-saas-ebook/) did.
+This is a list of software and platforms that have a marketplace for third party extensions & integrations. Use these platforms to discover and sell your next SaaS product, just like [Preetam Nath](https://www.preetamnath.com/blog/shopify-micro-saas) and [Tyler Tringas](https://tylertringas.com/micro-saas-ebook/) did.
 
 Many of these platforms also have thriving markets for freelance developers and consultants that can help companies implement their own extensions for the platform. Use this list to find a software platform to specialise in for your freelance business.
 
@@ -24,3 +24,13 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Wix](https://www.wix.com/)
 - [Weebly](https://www.weebly.com/)
 - [Unbounce](https://unbounce.com/)
+
+### Content Management Systems (CMS)
+
+- [WordPress](https://wordpress.org/)
+- [Joomla](https://www.joomla.org/)
+- [Drupal](https://www.drupal.org/)
+- [Ghost](https://ghost.org/)
+- [Contentful](https://www.contentful.com/)
+- [Apostrophe](https://apostrophecms.com/)
+- [Episerver](https://www.episerver.com/)
