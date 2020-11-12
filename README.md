@@ -83,3 +83,5 @@ Many of these platforms also have thriving markets for freelance developers and 
 ### GIS, GPS, Maps
 
 ### Point of Sale (POS)
+
+### Payment Processors
