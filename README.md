@@ -34,3 +34,16 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Contentful](https://www.contentful.com/)
 - [Apostrophe](https://apostrophecms.com/)
 - [Episerver](https://www.episerver.com/)
+
+### Customer Relaitionship Management (CRM)
+
+- [Pipeliner](https://www.pipelinersales.com/)
+- [Nimble](https://www.nimble.com/)
+- [Dynamics 365](https://dynamics.microsoft.com/en-us/)
+- [Zendesk](https://www.zendesk.com/)
+- [Monday](https://monday.com/)
+- [Pipedrive](https://www.pipedrive.com/)
+- [Hubspot](https://www.hubspot.com/)
+- [Salesforce](https://www.salesforce.com/)
+- [ActiveCampaign](https://www.activecampaign.com/)
+- [Freshworks](https://www.freshworks.com/)
