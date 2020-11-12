@@ -47,3 +47,39 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Salesforce](https://www.salesforce.com/)
 - [ActiveCampaign](https://www.activecampaign.com/)
 - [Freshworks](https://www.freshworks.com/)
+
+### Automation
+
+### Marketing
+
+### Office Tools
+
+### Communication & Collaboration
+
+### Developer Tools
+
+### No-Code Tools
+
+### Infrastructure & Cloud
+
+### Computer Aided Design (CAD)
+
+### Design Tools
+
+### Artistic Tools
+
+### Game Engines
+
+### Browsers
+
+### Devices
+
+### Digital Audio Workstation (DAW)
+
+### AR VR
+
+### Analytics
+
+### GIS, GPS, Maps
+
+### Point of Sale (POS)
