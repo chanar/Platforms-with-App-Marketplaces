@@ -58,6 +58,8 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Marketing
 
+### Email
+
 ### Office Tools
 
 ### Communication & Collaboration
@@ -91,3 +93,17 @@ Many of these platforms also have thriving markets for freelance developers and 
 ### Point of Sale (POS)
 
 ### Payment Processors
+
+### Investing
+
+### Blockchain
+
+### Ag-tech
+
+### Robotics
+
+### Satellite
+
+### Manufacturing
+
+### Ad-tech
