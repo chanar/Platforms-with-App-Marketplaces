@@ -133,6 +133,9 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Design Tools
 
+- [Figma](https://www.figma.com/)
+- [Sketch](https://www.sketch.com/)
+
 ### Artistic Tools
 
 ### Game Engines
