@@ -73,6 +73,11 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Office Tools
 
+- [Zoho](https://www.zoho.com/)
+- [Google Apps Scripts](https://developers.google.com/apps-script)
+- [Microsoft 365](https://www.microsoft.com/microsoft-365)
+- [Libre Office](https://www.libreoffice.org/)
+
 ### Communication & Collaboration
 
 ### Developer Tools
