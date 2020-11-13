@@ -150,6 +150,10 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Browsers
 
+- [Chrome](https://chrome.google.com/webstore/category/extensions)
+- [Safari](https://apps.apple.com/us/story/id1377753262)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/)
+
 ### Devices
 
 ### Digital Audio Workstation (DAW)
