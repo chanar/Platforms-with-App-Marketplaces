@@ -77,6 +77,8 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Google Apps Scripts](https://developers.google.com/apps-script)
 - [Microsoft 365](https://www.microsoft.com/microsoft-365)
 - [Libre Office](https://www.libreoffice.org/)
+- [Evernote](https://evernote.com/)
+- [Airtable](https://airtable.com/)
 
 ### Communication, Collaboration & Project Management
 
