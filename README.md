@@ -50,6 +50,12 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Automation
 
+- [Pipefy](https://www.pipefy.com/)
+- [UIPath](https://www.uipath.com/)
+- [Automation Anywhere](https://www.automationanywhere.com/)
+- [Zapier](https://zapier.com/)
+- [IFTTT](https://ifttt.com/)
+
 ### Marketing
 
 ### Office Tools
