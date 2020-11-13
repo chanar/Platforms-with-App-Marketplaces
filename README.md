@@ -98,6 +98,14 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Developer Tools
 
+- [Sublime Text](https://www.sublimetext.com/)
+- [Atom](https://atom.io/)
+- [VS Code](https://code.visualstudio.com/)
+- [Visual Studio](https://visualstudio.microsoft.com/)
+- [Eclipse](https://www.eclipse.org/)
+- [JetBrains/IntelliJ](https://www.jetbrains.com/)
+- [NetBeans](https://netbeans.org/)
+
 ### Infrastructure & Cloud
 
 ### No-Code Tools
