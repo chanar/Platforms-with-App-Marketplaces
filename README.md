@@ -138,7 +138,15 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Artistic Tools
 
+- [Adobe Suite](https://www.adobe.com/)
+- [Nuke](https://www.foundry.com/products/nuke)
+
 ### Game Engines
+
+- [Unreal Engine](https://www.unrealengine.com/)
+- [Unity](https://unity.com/)
+- [Game Maker](https://www.yoyogames.com/gamemaker)
+- [Godot](https://godotengine.org/)
 
 ### Browsers
 
