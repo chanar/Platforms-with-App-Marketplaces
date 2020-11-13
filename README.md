@@ -156,6 +156,10 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Devices
 
+- [Apple](https://www.apple.com/app-store/)
+- [Google Play](https://play.google.com/store)
+- [Windows](https://www.microsoft.com/windows/windows-10-apps)
+
 ### Digital Audio Workstation (DAW)
 
 ### AR VR
