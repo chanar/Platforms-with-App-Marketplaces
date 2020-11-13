@@ -80,6 +80,8 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Communication & Collaboration
 
+### Project Management
+
 ### Developer Tools
 
 ### No-Code Tools
