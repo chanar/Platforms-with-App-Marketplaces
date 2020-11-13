@@ -58,6 +58,19 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Marketing
 
+- [Survey Monkey](https://www.surveymonkey.com/)
+- [Typeform](https://www.typeform.com/)
+- [JotForm](https://www.jotform.com/)
+- [Formstack](https://www.formstack.com/)
+- [Qualtrics](https://www.qualtrics.com/)
+- [Sendinblue](https://www.sendinblue.com/)
+- [SendGrid](https://sendgrid.com/)
+- [Hootsuite](https://hootsuite.com/)
+- [Mailer Lite](https://www.mailerlite.com/)
+- [Mailjet](https://www.mailjet.com/)
+- [Acoustic](https://acoustic.com/)
+- [Dot Digital](https://dotdigital.com/)
+
 ### Email
 
 ### Office Tools
