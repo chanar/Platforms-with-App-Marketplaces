@@ -126,6 +126,11 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Computer Aided Design (CAD)
 
+- [Bricsys](https://www.bricsys.com/)
+- [SolidWorks](https://www.solidworks.com/)
+- [Autodesk](https://www.autodesk.com/)
+- [SketchUp](https://www.sketchup.com/)
+
 ### Design Tools
 
 ### Artistic Tools
