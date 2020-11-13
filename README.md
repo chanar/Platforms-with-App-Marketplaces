@@ -93,12 +93,14 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Miro](https://miro.com/)
 - [Stormboard](https://stormboard.com/)
 - [Todoist](https://todoist.com/)
+- [Backlog](https://backlog.com/)
+- [Jira](https://www.atlassian.com/software/jira)
 
 ### Developer Tools
 
-### No-Code Tools
-
 ### Infrastructure & Cloud
+
+### No-Code Tools
 
 ### Computer Aided Design (CAD)
 
