@@ -71,8 +71,6 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Acoustic](https://acoustic.com/)
 - [Dot Digital](https://dotdigital.com/)
 
-### Email
-
 ### Office Tools
 
 ### Communication & Collaboration
