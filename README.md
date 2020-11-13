@@ -78,9 +78,19 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Microsoft 365](https://www.microsoft.com/microsoft-365)
 - [Libre Office](https://www.libreoffice.org/)
 
-### Communication & Collaboration
+### Communication, Collaboration & Project Management
 
-### Project Management
+- [Slack](https://slack.com/)
+- [Discord](https://discord.com/)
+- [Notion](https://www.notion.so/)
+- [Asana](https://asana.com/)
+- [Trello](https://trello.com/)
+- [Wrike](https://www.wrike.com/)
+- [Mattermost](https://mattermost.com/)
+- [Basecamp](https://basecamp.com/)
+- [Miro](https://miro.com/)
+- [Stormboard](https://stormboard.com/)
+- [Todoist](https://todoist.com/)
 
 ### Developer Tools
 
