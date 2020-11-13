@@ -108,6 +108,15 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Infrastructure & Cloud
 
+- [Digital Ocean](https://www.digitalocean.com/)
+- [IBM](https://www.ibm.com/)
+- [Google Cloud](https://cloud.google.com/)
+- [Azure](https://azure.microsoft.com/)
+- [aws](https://aws.amazon.com/)
+- [Heroku](https://www.heroku.com/)
+- [Linode](https://www.linode.com/)
+- [Cloudflare](https://www.cloudflare.com/)
+
 ### No-Code Tools
 
 ### Computer Aided Design (CAD)
