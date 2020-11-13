@@ -105,6 +105,8 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Eclipse](https://www.eclipse.org/)
 - [JetBrains/IntelliJ](https://www.jetbrains.com/)
 - [NetBeans](https://netbeans.org/)
+- [Github](https://github.com/)
+- [Bitbucket](https://bitbucket.org/product/)
 
 ### Infrastructure & Cloud
 
