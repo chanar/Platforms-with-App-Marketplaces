@@ -121,6 +121,9 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### No-Code Tools
 
+- [Bubble](https://bubble.io/)
+- [Adalo](https://www.adalo.com/)
+
 ### Computer Aided Design (CAD)
 
 ### Design Tools
