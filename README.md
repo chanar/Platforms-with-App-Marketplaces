@@ -189,6 +189,13 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Point of Sale (POS)
 
+- [Square](https://squareup.com/)
+- [Lightspeed](https://www.lightspeedhq.com)
+- [Toast](https://pos.toasttab.com/)
+- [Revel](https://revelsystems.com/)
+- [Vend](https://www.vendhq.com/)
+- [TouchBistro](https://www.touchbistro.com/)
+
 ### Payment Processors
 
 ### Investing
