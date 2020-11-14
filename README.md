@@ -176,6 +176,11 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Analytics
 
+- [Tableau](https://www.tableau.com/)
+- [Sisense](https://www.sisense.com/)
+- [Domo](https://www.domo.com/)
+- [Power BI](https://powerbi.microsoft.com/)
+
 ### GIS, GPS, Maps
 
 ### Point of Sale (POS)
