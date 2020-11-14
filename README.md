@@ -55,6 +55,7 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Automation Anywhere](https://www.automationanywhere.com/)
 - [Zapier](https://zapier.com/)
 - [IFTTT](https://ifttt.com/)
+- [PieSync](https://www.piesync.com/)
 
 ### Marketing
 
@@ -153,12 +154,16 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Chrome](https://chrome.google.com/webstore/category/extensions)
 - [Safari](https://apps.apple.com/us/story/id1377753262)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/)
+- [Opera](https://addons.opera.com/extensions/)
 
 ### Devices
 
 - [Apple](https://www.apple.com/app-store/)
 - [Google Play](https://play.google.com/store)
 - [Windows](https://www.microsoft.com/windows/windows-10-apps)
+- [Samsung](https://www.samsung.com/us/apps/galaxy-store/)
+- [Insta360](https://www.insta360.com/)
+- [Fitbit](https://www.fitbit.com/)
 
 ### Digital Audio Workstation (DAW)
 
@@ -173,6 +178,7 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Vive](https://www.vive.com/)
 - [Oculus](https://www.oculus.com/)
 - [Matterport](https://matterport.com/)
+- [3DVista](https://www.3dvista.com/)
 
 ### Analytics
 
