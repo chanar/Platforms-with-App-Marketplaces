@@ -196,10 +196,7 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Vend](https://www.vendhq.com/)
 - [TouchBistro](https://www.touchbistro.com/)
 
-### Robotics
+### Robotics & Drones
 
-### Satellite
-
-### Manufacturing
-
-### Ad-tech
+- [Drone Deploy](https://www.dronedeploy.com/)
+- [Air Robotics](https://www.airoboticsdrones.com/)
