@@ -168,7 +168,11 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Cubase](https://www.steinberg.net/en/home.html)
 - [Reason Studios](https://www.reasonstudios.com/)
 
-### AR VR
+### AR/VR
+
+- [Vive](https://www.vive.com/)
+- [Oculus](https://www.oculus.com/)
+- [Matterport](https://matterport.com/)
 
 ### Analytics
 
