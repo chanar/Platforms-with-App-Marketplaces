@@ -162,6 +162,12 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### Digital Audio Workstation (DAW)
 
+- [FL Studio](https://www.image-line.com/)
+- [Pro Tools](https://www.avid.com/pro-tools)
+- [Reaper](https://www.reaper.fm/)
+- [Cubase](https://www.steinberg.net/en/home.html)
+- [Reason Studios](https://www.reasonstudios.com/)
+
 ### AR VR
 
 ### Analytics
