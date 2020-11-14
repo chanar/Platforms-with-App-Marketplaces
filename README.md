@@ -183,6 +183,10 @@ Many of these platforms also have thriving markets for freelance developers and 
 
 ### GIS, GPS, Maps
 
+- [ArcGIS](https://www.esri.com/home)
+- [Navixy](https://www.navixy.com/)
+- [Here](https://www.here.com/)
+
 ### Point of Sale (POS)
 
 ### Payment Processors
