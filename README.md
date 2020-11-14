@@ -196,8 +196,6 @@ Many of these platforms also have thriving markets for freelance developers and 
 - [Vend](https://www.vendhq.com/)
 - [TouchBistro](https://www.touchbistro.com/)
 
-### Payment Processors
-
 ### Investing
 
 ### Blockchain
