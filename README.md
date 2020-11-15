@@ -1,9 +1,7 @@
 
-This is a list of software and platforms that have a marketplace for third party extensions & integrations. Use these platforms to discover and distribute your next SaaS product, just like [Preetam Nath](https://www.preetamnath.com/blog/shopify-micro-saas) and [Tyler Tringas](https://tylertringas.com/micro-saas-ebook/) did.
+This is a list of software and platforms that have a marketplace for third party extensions & integrations. Use these platforms to discover and distribute your next SaaS product, just like [Preetam Nath](https://www.preetamnath.com/blog/shopify-micro-saas) and [Tyler Tringas](https://tylertringas.com/micro-saas-ebook/) did. Or find a platform to specialise as a freelance extension developer.
 
-Many of these platforms also have thriving markets for freelance developers and consultants that can help companies implement their own extensions for the platform. Find a software platform to specialise in for your freelance business.
-
-What may be most interesting of all is what's not on the list. Software platforms, many of which include third party app marketplaces, are becoming an increasingly popular way to deliver business value. Industries not represented on the list could be ripe for disruption.
+What may be most interesting of all however, is what's not on the list. Software platforms, many of which include third party app marketplaces, are becoming an increasingly popular way to deliver business value. Industries not represented on the list could be ripe for disruption.
 
 ## Contributing
 
