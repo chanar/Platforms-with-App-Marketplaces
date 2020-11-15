@@ -9,9 +9,9 @@ What may be most interesting of all is what's not on the list. Software platform
 
 If you have any suggestions for a platform that should be on the list, feel free to open an issue or pull request.
 
-## List
+# List
 
-### Contents <a id="contents"></a>
+## Contents <a id="contents"></a>
 
 - [ECommerce](#ecommerce)
 - [Website Builders](#builders)
@@ -37,7 +37,7 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Point of Sale (POS)](#pos)
 - [Robotics & Drones](#robotics)
 
-### ECommerce <a id="ecommerce" href="#contents">   &#x2934;</a>
+### ECommerce <a id="ecommerce" href="#contents">   &#x10548;</a>
 
 - [BigCommerce](https://www.bigcommerce.com/)
 - [Shopify](https://www.shopify.com)
@@ -50,14 +50,14 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Ecwid](https://www.ecwid.com/)
 - [OpenCart](https://www.opencart.com/)
 
-### Website Builders <a id="builders" href="#contents">   &#x2934;</a>
+### Website Builders <a id="builders" href="#contents">   &#x10548;</a>
 
 - [Squarespace](https://www.squarespace.com/)
 - [Wix](https://www.wix.com/)
 - [Weebly](https://www.weebly.com/)
 - [Unbounce](https://unbounce.com/)
 
-### Content Management Systems (CMS) <a id="cms" href="#contents">   &#x2934;</a>
+### Content Management Systems (CMS) <a id="cms" href="#contents">   &#x10548;</a>
 
 - [WordPress](https://wordpress.org/)
 - [Joomla](https://www.joomla.org/)
@@ -67,7 +67,7 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Apostrophe](https://apostrophecms.com/)
 - [Episerver](https://www.episerver.com/)
 
-### Customer Relationship Management (CRM) <a id="crm" href="#contents">   &#x2934;</a>
+### Customer Relationship Management (CRM) <a id="crm" href="#contents">   &#x10548;</a>
 
 - [Pipeliner](https://www.pipelinersales.com/)
 - [Nimble](https://www.nimble.com/)
@@ -80,7 +80,7 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [ActiveCampaign](https://www.activecampaign.com/)
 - [Freshworks](https://www.freshworks.com/)
 
-### Automation <a id="auto" href="#contents">   &#x2934;</a>
+### Automation <a id="auto" href="#contents">   &#x10548;</a>
 
 - [Pipefy](https://www.pipefy.com/)
 - [UIPath](https://www.uipath.com/)
@@ -89,7 +89,7 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [IFTTT](https://ifttt.com/)
 - [PieSync](https://www.piesync.com/)
 
-### Marketing <a id="marketing" href="#contents">   &#x2934;</a>
+### Marketing <a id="marketing" href="#contents">   &#x10548;</a>
 
 - [Survey Monkey](https://www.surveymonkey.com/)
 - [Typeform](https://www.typeform.com/)
@@ -104,7 +104,7 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Acoustic](https://acoustic.com/)
 - [Dot Digital](https://dotdigital.com/)
 
-### Office Tools <a id="office" href="#contents">   &#x2934;</a>
+### Office Tools <a id="office" href="#contents">   &#x10548;</a>
 
 - [Zoho](https://www.zoho.com/)
 - [Google Apps Scripts](https://developers.google.com/apps-script)
@@ -113,7 +113,7 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Evernote](https://evernote.com/)
 - [Airtable](https://airtable.com/)
 
-### Communication, Collaboration & Project Management <a id="collab" href="#contents">   &#x2934;</a>
+### Communication, Collaboration & Project Management <a id="collab" href="#contents">   &#x10548;</a>
 
 - [Slack](https://slack.com/)
 - [Discord](https://discord.com/)
@@ -129,7 +129,7 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Backlog](https://backlog.com/)
 - [Jira](https://www.atlassian.com/software/jira)
 
-### Developer Tools <a id="dev" href="#contents">   &#x2934;</a>
+### Developer Tools <a id="dev" href="#contents">   &#x10548;</a>
 
 - [Sublime Text](https://www.sublimetext.com/)
 - [Atom](https://atom.io/)
@@ -141,7 +141,7 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Github](https://github.com/)
 - [Bitbucket](https://bitbucket.org/product/)
 
-### Infrastructure & Cloud <a id="cloud" href="#contents">   &#x2934;</a>
+### Infrastructure & Cloud <a id="cloud" href="#contents">   &#x10548;</a>
 
 - [Digital Ocean](https://www.digitalocean.com/)
 - [IBM](https://www.ibm.com/)
@@ -152,43 +152,43 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Linode](https://www.linode.com/)
 - [Cloudflare](https://www.cloudflare.com/)
 
-### NoCode Tools <a id="nocode" href="#contents">   &#x2934;</a>
+### NoCode Tools <a id="nocode" href="#contents">   &#x10548;</a>
 
 - [Bubble](https://bubble.io/)
 - [Adalo](https://www.adalo.com/)
 
-### Computer Aided Design (CAD) <a id="cad" href="#contents">   &#x2934;</a>
+### Computer Aided Design (CAD) <a id="cad" href="#contents">   &#x10548;</a>
 
 - [Bricsys](https://www.bricsys.com/)
 - [SolidWorks](https://www.solidworks.com/)
 - [Autodesk](https://www.autodesk.com/)
 - [SketchUp](https://www.sketchup.com/)
 
-### Design Tools <a id="design" href="#contents">   &#x2934;</a>
+### Design Tools <a id="design" href="#contents">   &#x10548;</a>
 
 - [Figma](https://www.figma.com/)
 - [Sketch](https://www.sketch.com/)
 
-### Artist Tools <a id="art" href="#contents">   &#x2934;</a>
+### Artist Tools <a id="art" href="#contents">   &#x10548;</a>
 
 - [Adobe Suite](https://www.adobe.com/)
 - [Nuke](https://www.foundry.com/products/nuke)
 
-### Game Engines <a id="game" href="#contents">   &#x2934;</a>
+### Game Engines <a id="game" href="#contents">   &#x10548;</a>
 
 - [Unreal Engine](https://www.unrealengine.com/)
 - [Unity](https://unity.com/)
 - [Game Maker](https://www.yoyogames.com/gamemaker)
 - [Godot](https://godotengine.org/)
 
-### Browsers <a id="browsers" href="#contents">   &#x2934;</a>
+### Browsers <a id="browsers" href="#contents">   &#x10548;</a>
 
 - [Chrome](https://chrome.google.com/webstore/category/extensions)
 - [Safari](https://apps.apple.com/us/story/id1377753262)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/)
 - [Opera](https://addons.opera.com/extensions/)
 
-### Devices <a id="devices" href="#contents">   &#x2934;</a>
+### Devices <a id="devices" href="#contents">   &#x10548;</a>
 
 - [Apple](https://www.apple.com/app-store/)
 - [Google Play](https://play.google.com/store)
@@ -197,7 +197,7 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Insta360](https://www.insta360.com/)
 - [Fitbit](https://www.fitbit.com/)
 
-### Digital Audio Workstation (DAW) <a id="daw" href="#contents">   &#x2934;</a>
+### Digital Audio Workstation (DAW) <a id="daw" href="#contents">   &#x10548;</a>
 
 - [FL Studio](https://www.image-line.com/)
 - [Pro Tools](https://www.avid.com/pro-tools)
@@ -205,27 +205,27 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Cubase](https://www.steinberg.net/en/home.html)
 - [Reason Studios](https://www.reasonstudios.com/)
 
-### AR/VR <a id="vr" href="#contents">   &#x2934;</a>
+### AR/VR <a id="vr" href="#contents">   &#x10548;</a>
 
 - [Vive](https://www.vive.com/)
 - [Oculus](https://www.oculus.com/)
 - [Matterport](https://matterport.com/)
 - [3DVista](https://www.3dvista.com/)
 
-### Analytics <a id="analytics" href="#contents">   &#x2934;</a>
+### Analytics <a id="analytics" href="#contents">   &#x10548;</a>
 
 - [Tableau](https://www.tableau.com/)
 - [Sisense](https://www.sisense.com/)
 - [Domo](https://www.domo.com/)
 - [Power BI](https://powerbi.microsoft.com/)
 
-### GIS, GPS, Maps <a id="gis" href="#contents">   &#x2934;</a>
+### GIS, GPS, Maps <a id="gis" href="#contents">   &#x10548;</a>
 
 - [ArcGIS](https://www.esri.com/home)
 - [Navixy](https://www.navixy.com/)
 - [Here](https://www.here.com/)
 
-### Point of Sale (POS) <a id="pos" href="#contents">   &#x2934;</a>
+### Point of Sale (POS) <a id="pos" href="#contents">   &#x10548;</a>
 
 - [Square](https://squareup.com/)
 - [Lightspeed](https://www.lightspeedhq.com)
@@ -234,7 +234,7 @@ If you have any suggestions for a platform that should be on the list, feel free
 - [Vend](https://www.vendhq.com/)
 - [TouchBistro](https://www.touchbistro.com/)
 
-### Robotics & Drones <a id="robotics" href="#contents">   &#x2934;</a>
+### Robotics & Drones <a id="robotics" href="#contents">   &#x10548;</a>
 
 - [Drone Deploy](https://www.dronedeploy.com/)
 - [Air Robotics](https://www.airoboticsdrones.com/)
