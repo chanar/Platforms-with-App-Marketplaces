@@ -5,7 +5,7 @@ What may be most interesting of all however, is what's not on the list. Software
 
 ## Contributing
 
-If you have any suggestions for a platform that should be on the list, feel free to open an issue or pull request.
+If you have any suggestions for what should be on the list feel free to open an issue or pull request.
 
 # List
 
