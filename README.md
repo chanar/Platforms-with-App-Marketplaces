@@ -126,6 +126,7 @@ If you have any suggestions for what should be on the list feel free to open an 
 - [Todoist](https://todoist.com/)
 - [Backlog](https://backlog.com/)
 - [Jira](https://www.atlassian.com/software/jira)
+- [Confluence](https://www.atlassian.com/software/confluence)
 
 ### Developer Tools <a id="dev" href="#contents">   &#x293B;</a>
 
